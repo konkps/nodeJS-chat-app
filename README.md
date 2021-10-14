@@ -12,11 +12,17 @@
 
 ### .ENV
 
-PORT=* <your choice> *
+PORT=* <your choice> 
 
 For Development
 
 | Syntax | Description |
 | ----------- | ----------- |
-| Header | Title |
+| PORT | * your choice * |
 | Paragraph | Text |
+| Paragraph | Text |
+| PORT | Title |
+| ----------- | ----------- |
+| Paragraph | Text |
+| Paragraph | Text |
+| PORT | Title |
