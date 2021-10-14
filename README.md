@@ -12,17 +12,7 @@
 
 ### .ENV
 
-PORT=* <your choice> 
-
-For Development
-
-| Syntax | Description |
+| Variable | Value |
 | ----------- | ----------- |
-| PORT | * your choice * |
-| Paragraph | Text |
-| Paragraph | Text |
-| PORT | Title |
-| ----------- | ----------- |
-| Paragraph | Text |
-| Paragraph | Text |
-| PORT | Title |
+| PORT | * your choice * e.g. 3005 |
+
