@@ -14,5 +14,4 @@
 
 | Variable | Value |
 | ----------- | ----------- |
-| PORT | * your choice * e.g. 3005 |
-
+| PORT | *your choice* <br/> e.g. 3005 |
